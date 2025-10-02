@@ -7,3 +7,4 @@ def nameX(myname):
 
 print(nameX("Collins"))
 print(nameX("Major"))
+print(nameX("Chiedu"))
